@@ -1,0 +1,47 @@
+{
+  "MLB": {
+    "dodgers": "https://www.mlb.com/dodgers/schedule/promotions",
+    "yankees": "https://www.mlb.com/yankees/schedule/promotions",
+    "giants": "https://www.mlb.com/giants/schedule/promotions"
+  },
+  "NBA": {
+    "lakers": "https://www.nba.com/lakers/promotions",
+    "warriors": "https://www.nba.com/warriors/promotions"
+  },
+  "WNBA": {
+    "sparks": "https://sparks.wnba.com/promotions/"
+  },
+  "NFL": {
+    "rams": "https://www.therams.com/fans/promotions"
+  },
+  "NHL": {
+    "kings": "https://www.nhl.com/kings/fans/promotions"
+  },
+  "MLS": {
+    "lafc": "https://www.lafc.com/fans/promotions"
+  },
+  "MiLB": {
+    "okc-dodgers": "https://www.milb.com/oklahoma-city/tickets/promotions"
+  },
+  "G-League": {
+    "south-bay-lakers": "https://southbay.gleague.nba.com/promotions/"
+  },
+  "AHL": {
+    "ontario-reign": "https://www.ontarioreign.com/en/schedule/promotions"
+  },
+  "PLL": {
+    "promo": "https://premierlacrosseleague.com/schedule"
+  },
+  "UFL": {
+    "battlehawks": "https://www.theufl.com/stlouis/tickets/promotions"
+  },
+  "NLL": {
+    "seals": "https://www.sealslax.com/promotions/"
+  },
+  "USL": {
+    "sacramento-republic": "https://www.sacrepublicfc.com/promotions/"
+  },
+  "NVA": {},
+  "IFL": {},
+  "UFC": {}
+}
